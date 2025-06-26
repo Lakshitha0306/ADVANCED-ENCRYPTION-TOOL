@@ -1,12 +1,17 @@
+# ADVANCED ENCRYPTION TOOL
 
+COMPANY : CODTECH IT SOLUTIONS
 
+NAME : LAKSHITHA R
 
+INTERN ID : CITSOD467
 
+DOMAIN : CYBER SECURITY AND ETHICAL HACKING
 
+DURATION : 4 WEEKS
 
-
-
-
+MENTOR : NEELA SANTOSH
+------
 # Task 4 – ADVANCED ENCRYPTION TOOL
 
 ## 🔐 Project Description
@@ -59,13 +64,4 @@ python main.py
 - Encrypted: demo.txt.enc
 - Decrypted: demo_decrypted.txt
 
----
-
-## 👩‍💻 Created by
-*Lakshitha R*  
-Cyber security intern- CodTech IT solutions
-Task 4- Advanced encryption tool
----
-
-✅ Just paste the above into your README.md file. You’re done — fully complete and clean submission!
-Let me know if you want help zipping the folder next. 😊
+----
