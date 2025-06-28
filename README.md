@@ -68,3 +68,4 @@ python main.py
 
 ----
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/2508e307-ba71-4f1e-96cd-8ebf82b41085)
